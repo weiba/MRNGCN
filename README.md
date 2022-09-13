@@ -1,5 +1,5 @@
 # MRNGCN
-MRNGCN：A Graph Convolution Network-based method that integrates Multiple gene relationship Networks to identify cancer driver genes
+MRNGCN：Integrating multiple networks to identify cancer driver genes based on heterogeneous graph convolution with self-attention mechanism
 
 ## Prerequisites
 -Python>=3.7.0
